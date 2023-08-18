@@ -6,7 +6,7 @@
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://gabrielolvh.github.io/test-docs/pt-br/blog"/>
     <subtitle>Cafeteria Development Blog</subtitle>
-    <icon>https://gabrielolvh.github.io/test-docs/pt-br/img/favicon.ico</icon>
+    <icon>https://gabrielolvh.github.io/test-docs/pt-br/img/favicon.svg</icon>
     <entry>
         <title type="html"><![CDATA[Welcome]]></title>
         <id>https://gabrielolvh.github.io/test-docs/pt-br/blog/welcome</id>
